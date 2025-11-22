@@ -1,7 +1,8 @@
 * {
-    background-color: aquamarine;
-    color: blueviolet;
-    font-style: bold;
+    color: white;
+    background-color: darkblue;
+    font-weight: bold;
+    text-align: center;
 }
 nav a {
     color: green;
@@ -9,5 +10,14 @@ nav a {
 
 nav a:hover {
     color: orange;
+}
+body {
+    background-image: url(groovy.png);
+    background-repeat: none;
+    font-size: 2.5em;
+    
+}
+nav {
+    background-color: cornflowerblue;
 }
 
