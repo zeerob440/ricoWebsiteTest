@@ -3,3 +3,11 @@
     color: blueviolet;
     font-style: bold;
 }
+nav a {
+    color: green;
+}
+
+nav a:hover {
+    color: orange;
+}
+
